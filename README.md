@@ -1,8 +1,9 @@
 # Soy Sofy Frontend 👋
-Bienvenid@ a mi perfil de github donde estan muchos de mis trabajos y proyectos en desarrollo. 
-Actualmente mis trabajos estan hecho solo para fronted, uso HTML, CSS, JS y me apoyo en librerias para conseguir efectos y dar dinamismo a mis proyectos.
+Bienvenid@ a mi perfil de Github donde están muchos de mis trabajos y proyectos, alguno de ellos en desarrollo. 
+Actualmente mis trabajos están basados en desarrollo fronted: HTML, CSS, JS y me apoyo en librerias para conseguir efectos y dar dinamismo a mis proyectos.
+Me he formado en diseño UI y UX, para elaborar mis diseños uso FIGMA.
 
-Si quieres contactar conmigo o hablar un rato puedes hacerlo a traves de [LinkedIn](www.linkedin.com/in/sofia-acevedo)
+Si quieres contactar conmigo o hablar un rato puedes hacerlo a través de [LinkedIn](www.linkedin.com/in/sofia-acevedo)
 
 <!--
 **SofyFrontend/SofyFrontend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
