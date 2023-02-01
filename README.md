@@ -1,5 +1,6 @@
 # Soy Sofy Frontend 👋
 Bienvenid@ a mi perfil de github donde estan muchos de mis trabajos y proyectos en desarrollo. 
+Actualmente mis trabajos estan hecho solo para fronted, uso HTML, CSS, JS y me apoyo en librerias para conseguir efectos y dar dinamismo a mis proyectos.
 
 
 <!--
