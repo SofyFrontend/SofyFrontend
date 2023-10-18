@@ -9,7 +9,7 @@ Bienvenid@ a mi perfil de Github donde están muchos de mis trabajos y proyectos
 
 ### Librerias 
 
-![Particles JS](https://github.com/SofyFrontend/badges/blob/main/particles.js.svg)  ![FontAwesome](https://github.com/SofyFrontend/badges/blob/main/font-awesome.svg) ![A-FRAME](https://github.com/SofyFrontend/badges/blob/main/a-frame.svg) ![Bulma](https://github.com/SofyFrontend/badges/blob/main/bulma.svg)
+![Bulma](https://github.com/SofyFrontend/badges/blob/main/bulma.svg) ![Particles JS](https://github.com/SofyFrontend/badges/blob/main/particles.js.svg)  ![FontAwesome](https://github.com/SofyFrontend/badges/blob/main/font-awesome.svg) ![A-FRAME](https://github.com/SofyFrontend/badges/blob/main/a-frame.svg) 
 
 ### Diseño UX/UI
 
