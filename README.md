@@ -1,5 +1,5 @@
 # Soy Sofy Frontend 👋
-Bienvenid@ a mi perfil de Github donde están muchos de mis trabajos y proyectos, alguno de ellos en desarrollo. 
+Bienvenid@ a mi perfil de Github donde están muchos de mis trabajos y proyectos, algunos de ellos en desarrollo. 
 
 ## ✨ Hard Skills
 
